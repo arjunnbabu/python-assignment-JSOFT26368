@@ -1,5 +1,4 @@
-mark = int(input("Enter mark: "))
-
+mark = int(input("Enter mark: ")
 if mark >= 80:
     print("A")
 elif mark >= 70:
